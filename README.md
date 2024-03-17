@@ -1,4 +1,4 @@
-# Tugas Kelompok code review
+# Tugas Kelompok Code Review
 ## AUTHOR: PRASETYO NUGROHADI,  REZKY YAYANG YAKHAMID
 
 ### Mentee assignment from IBM Advance AI @ Infinite Learning
